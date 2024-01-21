@@ -1,0 +1,123 @@
+body {
+margin:0px;
+font-size:14px;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-color:#808080;
+}
+
+/* ======= header section ======= */
+
+.header{
+	
+	
+border:2px solid #c0c0c0;
+height:110px;
+background-color:#727170;
+}
+
+
+
+.asaanlogo {
+float:left;
+}
+img.greatphoto {
+float:right;
+
+}
+
+
+h1{
+
+text-align:center;
+color:orange;
+font-size:350%;
+}
+
+.sign {
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
+ 
+
+/* =================== sidebar ============ */
+
+.side {
+background-color:#e5e4d7;
+border:2px solid silver;
+border-radius:5px;
+margin-top:10px;
+float:right;
+margin-right:10px;
+position:sticky;
+top:5px;
+}
+
+.pside {
+font-weight:bold;
+color:black;
+padding-left:10px;
+}
+
+.photo { 
+margin-top:5px;
+margin-left:auto;
+margin-right:auto;
+display:block;
+border:2px solid gold;
+}
+
+
+/* ========================== description ============================= */
+#biodes {
+	background-color:#e5e4d7;
+	margin-left:5px;
+	margin-top:5px;
+	border:2px solid silver;
+	border-radius:5px;
+	margin-right:300px;
+}
+	
+ #sanbiography {
+	 
+	 
+ }
+ 
+ h2{
+	 
+	color:maroon; 
+	 
+ }
+ 
+ #biohighlight {
+	 
+	color:red; 
+	font-size:20px;
+	
+	
+	
+	 
+ }
+ 
+ 
+ 
+ 
+ /*================== footer ================*/
+
+.footer {
+border: 2px solid silver;
+background-color:maroon;
+text-align:center;
+margin-top:15px;
+margin-bottom:15px;
+margin-right:300px;
+}
+
+.pfooter {
+color:gold; 
+font-weight:bold;
+}
+ 
+ 

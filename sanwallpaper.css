@@ -1,0 +1,113 @@
+
+body {
+margin:0px;
+font-size:14px;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-color:#808080;
+}
+
+
+/* ====================herder ======================================= */
+
+.header{
+	
+	
+border:2px solid #c0c0c0;
+height:110px;
+background-color:#727170;
+}
+
+
+
+.asaanlogo {
+float:left;
+}
+img.greatphoto {
+float:right;
+
+}
+
+
+h1{
+
+text-align:center;
+color:orange;
+font-size:350%;
+}
+
+.sign {
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
+
+ a {
+text-decoration:none;
+}
+
+
+
+/* ============================== menu ==================*/
+
+
+.menu {
+
+border:2px solid silver;
+border-radius:5px;
+margin-top:10px;
+background-color:maroon;
+}
+ul {
+
+}
+
+ul li {
+font-weight:bold;
+color:gold;
+font-size:150%;	
+padding:15px;
+display:inline;
+}
+
+ul li a{
+padding:15px 15px 15px 7.5px;
+color:gold;
+}
+
+
+ul  li a:hover{
+color:maroon;
+background-color:gold;
+}
+
+ul li.opened{
+background-color:gold;
+color:maroon;
+}
+
+ul li.opened:hover {
+cursor:pointer;
+}
+
+/* =================================== image collection ========================== */
+#sanphotocoll {
+	width:900px;
+	height:350px;
+	border:2px solid silver;
+	border-radius:2px;
+	margin-top:20px;
+	margin-left:200px;
+	display:block;
+   
+	
+	
+}
+
+#sanphotocoll:hover {
+	cursor:pointer;
+	opacity:0.5;
+	transition:2.5s;
+	
+}

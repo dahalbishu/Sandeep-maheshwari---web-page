@@ -1,0 +1,169 @@
+
+body {
+margin:0px;
+font-size:14px;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-color:#808080;
+}
+
+/* ======= header section ======= */
+
+.header{
+	
+	
+border:2px solid #c0c0c0;
+height:110px;
+background-color:#727170;
+
+}
+
+
+
+.asaanlogo {
+float:left;
+
+}
+img.greatphoto {
+float:right;
+
+}
+
+
+
+
+h1{
+
+text-align:center;
+color:orange;
+font-size:350%;
+}
+
+.sign {
+display:block;
+margin-left:auto;
+margin-right:auto;
+
+
+}
+ /*=========== body section======*/
+ 
+ 
+ 
+ 
+ a {
+text-decoration:none;
+}
+
+
+
+/* ============================== menu ==================*/
+
+
+.menu {
+margin-right:300px;
+border:2px solid silver;
+border-radius:5px;
+margin-top:10px;
+background-color:maroon;
+}
+ul {
+
+}
+
+ul li {
+font-weight:bold;
+color:gold;
+font-size:150%;	
+padding:15px;
+display:inline;
+}
+
+ul li a{
+padding:15px 15px 15px 7.5px;
+color:gold;
+}
+
+
+ul  li a:hover{
+color:maroon;
+background-color:gold;
+}
+
+ul li.opened{
+background-color:gold;
+color:maroon;
+}
+
+ul li.opened:hover {
+cursor:pointer;
+}
+
+/* ================= news ================= */
+
+.body {
+background-color:#e5e4d7;
+margin-right:300px;
+border:2px solid silver;
+border-radius:5px;
+margin-top:10px;
+}
+.body:hover {
+background-color:silver;
+}
+
+.head {
+color:brown;
+font-size:200%;
+}
+
+p {
+font-weight:bold;
+color:black;
+padding-left:10px;
+}
+
+/* =================== sidebar ============ */
+
+.side {
+background-color:#e5e4d7;
+border:2px solid silver;
+border-radius:5px;
+margin-top:10px;
+float:right;
+margin-right:10px;
+position:sticky;
+top:5px;
+}
+
+.pside {
+font-weight:bold;
+color:black;
+padding-left:10px;
+}
+
+.photo { 
+margin-top:5px;
+margin-left:auto;
+margin-right:auto;
+display:block;
+border:2px solid gold;
+}
+
+/*================== footer ================*/
+
+.footer {
+border: 2px solid silver;
+background-color:maroon;
+text-align:center;
+margin-top:15px;
+margin-bottom:15px;
+margin-right:300px;
+}
+
+.pfooter {
+color:gold; 
+font-weight:bold;
+}
+
+
